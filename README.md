@@ -10,7 +10,7 @@
 
 
 ## Tech Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,python,spark,hadoop,hive,kafka,postgressqlmongodb,databricks,delta,snowflake,airflow,azuredevops,docker,git,githubactions,jenkins,)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,python,spark,hadoop,hive,kafka,postgressql,mongodb,databricks,delta,snowflake,airflow,azuredevops,docker,git,githubactions,jenkins,)
 
 
 
