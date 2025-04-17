@@ -1,5 +1,5 @@
 # Hi, I'm Aakash! 👋
-
+![header](https://capsule-render.vercel.app/api?text=Welcome!!!&type=waving&color=timeAuto&animation=twinkling)
 
 ## 🚀 About Me
 
