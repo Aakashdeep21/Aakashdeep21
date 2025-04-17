@@ -1,22 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aakash! 👋
 
-<!--
-**Aakashdeep21/Aakashdeep21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working as a Data Engineer
+- 📝 I write in-depth, long-form articles on my LinkedIn [linkedin.com](www.linkedin.com/in/aakashdeep-b-419a471a4)
+- 🌐 Proud alumni of the NIT Srinagar, contributing to the tech community.
 
 
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
+ ## 🏆 Achievements
+
+- 🌟 Microsoft Certified Data Engineer Associate
+
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](www.linkedin.com/in/aakashdeep-b-419a471a4)
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
 
@@ -25,6 +33,4 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey! Welcome here!&animation=blink&type=waving&color=gradient&height=100"/>
-</p>
+
