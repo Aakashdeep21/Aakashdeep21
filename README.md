@@ -10,7 +10,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,python,pyspark,hadoop,hive,kafka,mongodb,databricks,postgressql)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,python,spark,hadoop,hive,kafka,mongodb,databricks,postgressql,git,kubernetes,docker)]
 
 
 
