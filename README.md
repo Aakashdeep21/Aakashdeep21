@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a Data Engineer
-- 📝 I write in-depth, long-form articles on my LinkedIn [LinkedIn](https://www.linkedin.com/in/aakashdeep-b-419a471a4/)
+- 📝 I write in-depth, long-form articles on my [LinkedIn](https://www.linkedin.com/in/aakashdeep-b-419a471a4/)
 - 🌐 Proud alumni of NIT Srinagar, contributing to the tech community.
 
 
